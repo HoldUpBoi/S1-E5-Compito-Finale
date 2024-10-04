@@ -1,0 +1,44 @@
+S1E5 - Relazione: Un'Analisi dell'Impiego delle VLAN nella Gestione di Reti di Computer
+
+
+In questo compito viene presentata una soluzione innovativa per la gestione delle reti di computer: 
+l'utilizzo di VLAN (Virtual Local Area Network) al posto di reti fisiche separate per ogni coppia di host. 
+Questa scelta strategica presenta numerosi vantaggi, analizzati dettagliatamente di seguito.
+
+La principale motivazione risiede nella riduzione dei costi. L'implementazione di VLAN sfrutta 
+l'infrastruttura di rete esistente, eliminando la necessità di investimenti in switch e router aggiuntivi. 
+Questo si traduce in un risparmio significativo non solo in fase di installazione, ma anche nella 
+successiva manutenzione e gestione della rete, ottimizzando l'utilizzo delle risorse hardware già 
+disponibili. Un aspetto spesso sottovalutato è la riduzione dei costi di formazione del personale, in 
+quanto la gestione delle VLAN richiede competenze relativamente meno specializzate rispetto alla 
+configurazione di reti fisiche complesse.
+
+Oltre all'aspetto economico, l'utilizzo delle VLAN offre una flessibilità senza precedenti. 
+La modifica della configurazione di rete avviene tramite semplici interventi software, eliminando la 
+necessità di interventi fisici sul cablaggio. Questo permette di aggiungere o rimuovere host da una VLAN 
+in modo rapido ed efficiente, adattando la rete alle mutevoli esigenze aziendali. Tale agilità è 
+particolarmente rilevante in contesti dinamici, dove la rapidità di risposta a cambiamenti organizzativi 
+è un fattore critico di successo. Si pensi, ad esempio, all'impatto positivo su un'azienda in fase di 
+rapida espansione o ristrutturazione.
+
+Un ulteriore vantaggio cruciale è rappresentato dall'incremento della sicurezza e dell'isolamento. 
+Mentre le reti fisiche offrono un isolamento fisico, le VLAN garantiscono un isolamento logico 
+supplementare. Ogni VLAN può essere configurata con politiche di sicurezza personalizzate, includendo 
+controlli di accesso granulari e monitoraggio del traffico. Questo permette di segmentare la rete in base 
+a criteri di sicurezza specifici, proteggendo dati sensibili e limitando l'impatto di eventuali violazioni. 
+La possibilità di applicare politiche di sicurezza differenziate a diverse VLAN rappresenta un 
+significativo vantaggio rispetto alle reti fisiche tradizionali, dove la sicurezza è spesso gestita a 
+livello di rete globale.
+
+Infine, le VLAN contribuiscono al miglioramento delle prestazioni di rete. 
+La segmentazione del traffico riduce i domini di broadcast, limitando il traffico inutile e prevenendo la 
+congestione della rete. Questo si traduce in una comunicazione più fluida ed efficiente tra gli 
+host all'interno della stessa VLAN, migliorando la reattività dell'intera infrastruttura. 
+Questo aspetto è particolarmente rilevante in ambienti con elevato traffico dati, dove la performance 
+della rete è un fattore determinante per la produttività.
+
+In conclusione, l'adozione di VLAN rappresenta una soluzione moderna ed efficiente per la gestione delle 
+reti aziendali. L'analisi costi-benefici dimostra chiaramente la superiorità di questo approccio rispetto 
+alle reti fisiche separate, offrendo flessibilità, sicurezza e prestazioni ottimizzate. 
+L'adozione di questa tecnologia non è solo una scelta pratica, ma una strategia vincente per le 
+organizzazioni che mirano a mantenere una posizione competitiva nel panorama tecnologico attuale.
